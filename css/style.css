@@ -1,0 +1,109 @@
+.top
+{
+  background-color: #abf0e9;
+}
+body{
+  margin:0;
+  text-align: center;
+  color: #40514E;
+
+  font-size: 200%;
+}
+
+.contact-me
+{
+  height: 40%;
+  margin: 20px auto 30px;
+  radius: 70%;
+}
+h1
+{
+  font-size: 70px;
+   margin: 50px auto 0 auto;
+   font-family: 'Sacramento', cursive;
+   line-height: 2;
+
+}
+h2
+{
+
+  font-size: 2.5rem;
+  font-family: 'Pacifico', cursive;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+p
+{
+  line-height: 2;
+  font-family: 'Berkshire Swash', cursive;
+}
+hr
+{
+  border: dotted  6px;
+  width: 70px;
+  border-bottom: none;
+}
+a{
+  color: #3b6978;
+  margin: 5px 5px;
+  text-decoration: none;
+}
+a:hover
+{
+  color: #EAF6F6;
+}
+.copy-right
+{
+  color:#EAF6F6;
+  font-size: 1.2rem;
+
+}
+.middle-container
+{
+  padding-top: 20px;
+}
+.bottom-container
+{
+  background-color: #66BFBF;
+  padding: 15px 0 5px;
+
+}
+.pro
+{
+}
+.bottom-cloud
+{
+  position: absolute;
+
+}
+.top-cloud
+{
+  position: absolute;
+  right: 390px;
+  top: 10px;
+}
+.skill-row
+{
+  width: 70%;
+  margin: 100px auto 100px auto;
+  text-align: center;
+}
+.web
+{
+  width:23%;
+  height:21%;
+  float: left;
+  margin-right: 30px;
+  border-radius: 60%;
+}
+.java
+{
+width: 21%;
+height: 20%;
+float: right;
+margin-left: 30px;
+}
+h3
+{
+  font-family: 'Pacifico', cursive
+}
